@@ -1,0 +1,18 @@
+body {
+    margin: auto 0;
+}
+.banner {
+    width: 100%;
+}
+.bannerText {
+    font-size: 70px;
+    color: white;
+    text-shadow: 0px 0px 5px black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.first {
+    text-align: center;
+}
